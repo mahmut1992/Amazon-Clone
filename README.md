@@ -1,7 +1,25 @@
-# Amazon-Clone
+# 🏠Amazon-Clone-Website
 
-<p>Amazon'un basit şekli ile tasarlanmış web sitesi.</p>
+In this repo, a website designed in Amazon's simple form was created using Html and Css.
 
-<h3>Ekran Görüntüsü</h3>
+# 🚀Features
+
+-Responsive Design
+
+-User-Friendly Interface
+
+-Dynamic Navbar
+
+# 🛠️Technologies Used
+
+-Html
+
+-Css
+
+# Screenshot
 
 ![](Amazon.gif)
+
+# 📨Contact
+
+For your questions, comments and suggestions, please contact: fratsbht@icloud.com
